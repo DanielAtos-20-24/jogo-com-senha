@@ -1,4 +1,4 @@
-var senhaDeAcesso = 1234;
+var senhaDeAcesso = 3030;
 var numeroAleatorio = verificarChute();
 var tentativas = 1;
 
